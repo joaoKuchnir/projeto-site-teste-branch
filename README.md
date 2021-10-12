@@ -1,2 +1,2 @@
-# projeto-site-teste-branch
- Projeto de um site criado durante o curso de Git e Github
+# projeto-site
+ Projeto de um site criado durante o curso de Git e GitHub
